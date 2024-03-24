@@ -1,0 +1,8 @@
+prefix=/home/sjhan2/202301738/install
+
+Name: 202301738
+Description: Description of 202301738
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
